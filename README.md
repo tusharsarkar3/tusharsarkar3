@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am Tushar Sarkar  <img src="gifs\Hi.gif" width="30px"></h2>
-<h2> I am passionate Data Scientist and I love solving business problems with data as well as conducting research on new machine learning architectures.</h2>
+<h2> I am a passionate Data Scientist and I love solving business problems with data as well as conducting research on new machine learning architectures.</h2>
 </div>
 
 <div align="center" width="50">
@@ -34,4 +34,5 @@ or <a href="mailto:tushar.sarkar@somaiya.edu"><b>email</b></a> me.
 <a href="https://www.linkedin.com/in/tushar-sarkar-3911151aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_tusharrrr_____/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/tusharsarkar3" target="_blank"><img src="https://img.shields.io/badge/GitHub-%231877F2.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://scholar.google.com/citations?user=b3Sed68AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/scholar-%230077B5.svg?&style=flat-square&logo=google" alt="GitHub"></a>
 </div>
