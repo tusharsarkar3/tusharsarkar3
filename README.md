@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am Tushar Sarkar  <img src="gifs\Hi.gif" width="30px"></h2>
-<h2> I am a passionate Data Scientist and I love solving business problems with data as well as conducting research on new machine learning architectures.</h2>
+<h2> I am a passionate Systematic Trader and I love reading and implementing new quantitative strategies</h2>
 </div>
 
 <div align="center" width="50">
@@ -12,7 +12,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/tusharsarkar3/tusharsarkar3/issues/new"><b>here</b></a><br>
 or <a href="mailto:tushar.sarkar@somaiya.edu"><b>email</b></a> me.
 
